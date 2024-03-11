@@ -1,0 +1,44 @@
+D:\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.exe.config
+D:\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.exe
+D:\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.pdb
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.csprojResolveAssemblyReference.cache
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.Properties.Resources.resources
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.csproj.GenerateResource.Cache
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.exe
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.pdb
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.frmWelcome.resources
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.frmMenuWindow.resources
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.QRCodeGenerator.resources
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AttendenceSummary.resources
+D:\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.StudentInformation.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.exe.config
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.exe
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.pdb
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.exe
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.pdb
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.csprojResolveAssemblyReference.cache
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AttendenceSummary.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.frmWelcome.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.frmMenuWindow.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.Properties.Resources.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.StudentInformation.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.csproj.GenerateResource.Cache
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AddNewAdmin.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AddNewStudent.resources
+C:\Users\abans\Desktop\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.CheckAttendence.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.exe.config
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.exe
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.pdb
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.exe
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\SmartAttendenceSystem.pdb
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.csprojResolveAssemblyReference.cache
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AddNewAdmin.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AddNewStudent.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.AttendenceSummary.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.CheckAttendence.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.frmWelcome.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.frmMenuWindow.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.Properties.Resources.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.StudentInformation.resources
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\obj\Debug\SmartAttendenceSystem.csproj.GenerateResource.Cache
+F:\02_Second year\First sem\2122 Software Engineering\SE project\SmartAttendenceSystem\SmartAttendenceSystem\bin\Debug\StudentAttendanceSystem.mdb
